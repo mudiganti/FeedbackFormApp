@@ -1,0 +1,30 @@
+{
+    "username": "pavan4develop@trifecta.com", 
+    "project_name": "FeedbackApp", 
+    "org_url": "", 
+    "namespace": "", 
+    "metadata_container": "1dc28000000A0fsAAC", 
+    "environment": "production", 
+    "workspace": "F:\\FeedbackFormApp", 
+    "id": "9Z1JERNCTGY8QSHI6T5PXT84XL09U7KV", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomApplication", 
+        "CustomLabels", 
+        "CustomObject", 
+        "CustomObjectTranslation", 
+        "CustomTab", 
+        "Dashboard", 
+        "EmailTemplate", 
+        "Layout", 
+        "PermissionSet", 
+        "QuickAction", 
+        "RemoteSiteSetting", 
+        "Report", 
+        "ReportType", 
+        "StaticResource"
+    ]
+}
